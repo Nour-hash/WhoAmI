@@ -1,6 +1,8 @@
 # whoami
 WEB 23 Project of Team AH 
 
+"Who I Am" is an innovative web application that uses API's to predict age, gender, and nationality based on a first name. It then generates a personalized AI-generated picture reflecting these attributes.
+
 using 
 
 express
